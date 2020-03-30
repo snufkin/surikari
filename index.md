@@ -11,6 +11,11 @@ Termelők és szolgáltatók a COVID-19 karantén idejére.
 * **Tel**: 06 20 426 6955
 * **Web**: [Facebook oldal](https://www.facebook.com/Gyros-%C3%A9s-Hambi-Fal%C3%B3-111169313822668)
 
+### Kacifant terasz
+
+* **Nyitvatartas**: 12:00-20:00
+* **Tel**: 06 70 431 3403
+* **Web**: [Facebook oldal](https://www.facebook.com/kacifantterasz/)
 
 ## Alapvető élelmiszerek
 
