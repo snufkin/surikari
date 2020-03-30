@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome to #surikari
 
-You can use the [editor on GitHub](https://github.com/snufkin/surikari/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Termelők és szolgáltatók a COVID-19 karantén idejére.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Készételrendelés
 
-### Markdown
+### Gyros es Hambi falo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Nyitvatartas**: (k, v) 10:30-20:00 (cs, p, szo) 10:30-21:00
+**Hol**: Leanyfalu
+**Tel**: 06 20 426 6955
+**Web**: [Facebook oldal](https://www.facebook.com/Gyros-%C3%A9s-Hambi-Fal%C3%B3-111169313822668)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Alapvető élelmiszerek
 
-- Bulleted
-- List
+### Zöldség és gyümölcs
 
-1. Numbered
-2. List
+#### Nemes Attila, Zsuzsanna
+**Hol van**: Pocsmegyer
+**Mit**: burgonyát, sárgarépát, vörös- és lila hagymát, újhagymát, fejes salátát, almát, valamint házi füstölt szalonnát, és még frissen szedett jácintot
+**Tel**:  06 30 440 4730
 
-**Bold** and _Italic_ and `Code` text
+#### A szigetmonostori hentes
+**Hol van**: Szigetmonostor
+**Mit lehet kapni**: nemtom, gondolom ami szokott nala lenni
+**Tel**: 06 20 669 9957, 06 20 669 9957
 
-[Link](url) and ![Image](src)
-```
+#### Hornyák István, Zsuzsa
+**Mit**: füstölt húsáru (sonka, lapockasonka, szalonna, csülök, tarja, kolbász, angolszalonna), savanyú káposzta, és 5 kg-os kiszerelésben burgonya kapható náluk.
+**Tel**: 06 30 484 3128, 06 30 346 6569.
+**Megj.**: Kiszallitas csak bizonyos mennyiseg felett
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Alföldi Csaba
+**Mit**: Házi készítésű füstölt cuccok.
+**Hol van**: Tahitotfalu
+**Web**: [Facebook oldal](https://www.facebook.com/Alf%C3%B6ldi-Csaba-kistermel%C5%91-H%C3%A1zi-k%C3%A9sz%C3%ADt%C3%A9s%C5%B1-f%C3%BCst%C3%B6lt-term%C3%A9kek-106518897651438)
+**Tel**: 06 20 550 6825
 
-### Jekyll Themes
+### Mez
+#### Erika Sipos
+**Hol van**: Szigetmonostor
+**Web**: [Facebook oldal](https://www.facebook.com/F%C3%BCzeserd%C5%91-M%C3%A9h%C3%A9szet-2377845572278606)
+**Tel**: 06 30 476 4935
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snufkin/surikari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Tejtermekek
+#### Puszta Monostori Birkás
+**Nev**: Szűr Tímea
+**Mit**: Tehén-, kecske- és juhtejből készült sajtokat
+**Tel**: 06-30-984-5163
 
-### Support or Contact
+#### Kati Ágostonné Szalai
+**Hol van**: Pócsmegyer
+**Mit**: joghurtot, kefírt készít, korlátozott mennyiségben tejet
+**Kiszallitas**:  Szigetmonostoron, Pócsmegyeren, Tahitótfaluban és Leányfalun kiszállít
+**Email**: tejeskati0907@gmail.com
+**Tel**: 06-20-410-1654.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
