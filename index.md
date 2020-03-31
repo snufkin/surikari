@@ -70,3 +70,10 @@ Termelők és szolgáltatók a COVID-19 karantén idejére.
 * **Email**: tejeskati0907@gmail.com
 * **Tel**: 06-20-410-1654.
 
+## Papir-iroszer
+
+#### Csillag Center
+* **Hol van**: Budapest, III ker
+* **Kiszallitas**: Budakalasz, Tahitotfalu, Pocsmegyer
+* **Tel**: 06 70 378 5219
+* **Nyitvatartas/rendelesfelvetel**: H-P 10-14
