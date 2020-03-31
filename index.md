@@ -17,6 +17,20 @@ Termelők és szolgáltatók a COVID-19 karantén idejére.
 * **Tel**: 06 70 431 3403
 * **Web**: [Facebook oldal](https://www.facebook.com/kacifantterasz/)
 
+### UAZaRétes
+
+Adalékanyagmentes rétes
+* **Nyitvatartas**: kedden és péntek
+* **Ar**: 400 Ft/db
+* **Web**: [Facebook oldal](https://www.facebook.com/uazareteshazhozszallitas/)
+
+Réteseink a következők:
+-túrós: házi túróból, házi tojásból készül
+-mákos-meggyes: mivel nem használunk adalékanyagot, így a mákot egy kis meggyel és reszelt -almával gazdagítjuk, hogy finom, lágy rétest kapjunk.
+-meggyes: meggyes réteseinket egy titkos fűszerrel és kis fahéjjal ízesítjük
+-almás: csak hazai almából készítjük, fahéjjal megbolondítva.
+Megj: A túrós rétes kivételével mindegyik rétesünk laktóz és tejfehérje mentes is egyben.
+
 ## Alapvető élelmiszerek
 
 ### Zöldség és gyümölcs
