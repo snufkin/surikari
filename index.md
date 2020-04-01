@@ -4,6 +4,11 @@ Termelők és szolgáltatók a COVID-19 karantén idejére.
 
 ## Készételrendelés
 
+### Csóka Konyha
+
+* **Hova**: Szállítási területek: Szigetmonostor, Horány, Surány, Pócsmegyer és Tahitótfalu (szigeti oldala).
+* **Web**: [Weboldal](http://www.csokakonyha.hu/), [Facebook oldal](https://www.facebook.com/csokakonyha)
+
 ### Gyros es Hambi falo
 
 * **Nyitvatartas**: (k, v) 10:30-20:00 (cs, p, szo) 10:30-21:00
