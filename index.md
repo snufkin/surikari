@@ -60,6 +60,12 @@ Megj: A túrós rétes kivételével mindegyik rétesünk laktóz és tejfehérj
 * **Tel**: 06 30 484 3128, 06 30 346 6569.
 * **Megj.**: Kiszallitas csak bizonyos mennyiseg felett
 
+#### Nemesné - Klári
+
+* **Hol van**: Pócsmegyer
+* **Mit**: Többféle zöldséget (burgonyát, édes burgonyát, paprikákat, paradicsomot, hagymákat, salátát, retket, stb.), paradicsom és paprika palántákat vásárolhattok tőlük.
+* **Tel**: 06 20 385 3553
+
 #### Alföldi Csaba
 
 * **Mit**: Házi készítésű füstölt cuccok.
