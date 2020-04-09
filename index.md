@@ -38,6 +38,14 @@ Réteseink a következők:
 -almás: csak hazai almából készítjük, fahéjjal megbolondítva.
 Megj: A túrós rétes kivételével mindegyik rétesünk laktóz és tejfehérje mentes is egyben.
 
+### Buvár Zoltán és Anikó - kenyér, péksütemény
+
+Jelenleg hétfő délutáni (16 óráig) rendeléssel és szerdai átvétellel tudtok tőlük pékárut rendelni. Elérhető náluk fehér kenyér és vadkovászos tönköly kenyér mellett kalács, pogácsa, perec, croissant és többféle édes péksüti is. A higiéniai szabályok betartásával dolgoznak, maszkot használnak. átvétel Szigetmonostoron háznál, előzetes egyeztetéssel lehetséges.
+ 
+* **Hol van**: Szigetmonostor
+* **Mit**: házi sütésű kenyér, péksütemény
+* **Tel**: 06 30 458 2391
+
 ## Alapvető élelmiszerek
 
 ### Zöldség és gyümölcs
