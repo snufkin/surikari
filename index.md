@@ -50,6 +50,13 @@ Jelenleg hétfő délutáni (16 óráig) rendeléssel és szerdai átvétellel t
 
 ### Zöldség és gyümölcs
 
+#### A Séf és a Kertész
+
+* **Hol van**: Pócsmegyer
+* **Mit**: Zöldségek és fűszerek, feldolgozott zöldségeg (krémek), palánták
+* **Web**: https://asefesakertesz.hu/, [Facebook oldal](http://www.facebook.com/asefesakertesz)
+* **E-mail**: info@asefesakertesz.hu
+
 #### Nemes Attila, Zsuzsanna
 
 * **Hol van**: Pocsmegyer
