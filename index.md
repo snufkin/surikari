@@ -5,11 +5,16 @@ Termelők és szolgáltatók a COVID-19 karantén idejére.
 ## Készételrendelés
 
 ### Csóka Konyha
-A kiszállítás ingyenes, de a minimális rendelési érték 1690. A weboldalon található az étlap. Kártyás fizetés lehetséges a weboldalon, vagy előre jelezve terminálon keresztül. Rendeléseket 11.30-tól fogadnak.
+A kiszállítás ingyenes, de a minimális rendelési érték 1690. A weboldalon található az étlap. Kártyás fizetés lehetséges előre jelezve terminálon keresztül. Rendeléseket 11.30-tól fogadnak.
 
+* **Nyitvatartás**: szerda - vasárnap (hétfőn és kedden zárva)
 * **Hova**: Szállítási területek: Szigetmonostor, Horány, Surány, Pócsmegyer és Tahitótfalu (szigeti oldala).
 * **Tel**: 06 70 274 7479
 * **Web**: [Weboldal](http://www.csokakonyha.hu/), [Facebook oldal](https://www.facebook.com/csokakonyha)
+
+
+### Rosinante Fogadó
+Napi menü rendelhető, elvitelre. A rendelést az előző nap kell feladni, telefonon, vagy emailban.
 
 ### Gyros es Hambi falo
 
